@@ -1,0 +1,51 @@
+# Mecanicadesuelos — Arica
+
+> Geotechnical engineering services in Arica, Chile.
+
+## Services
+- [Aislacion Sismica](https://arica.mecanicadesuelos.biz/aislacion-sismica/)
+- [Anclajes](https://arica.mecanicadesuelos.biz/anclajes/)
+- [Calicatas](https://arica.mecanicadesuelos.biz/calicatas/)
+- [Cbr Vial](https://arica.mecanicadesuelos.biz/cbr-vial/)
+- [Cimentaciones](https://arica.mecanicadesuelos.biz/cimentaciones/)
+- [Columnas Grava](https://arica.mecanicadesuelos.biz/columnas-grava/)
+- [Densidad Cono Arena](https://arica.mecanicadesuelos.biz/densidad-cono-arena/)
+- [Ensayo Cpt](https://arica.mecanicadesuelos.biz/ensayo-cpt/)
+- [Ensayos Proctor](https://arica.mecanicadesuelos.biz/ensayos-proctor/)
+- [Estabilidad Taludes](https://arica.mecanicadesuelos.biz/estabilidad-taludes/)
+- [Excavaciones Profundas](https://arica.mecanicadesuelos.biz/excavaciones-profundas/)
+- [Excavaciones Subterraneo](https://arica.mecanicadesuelos.biz/excavaciones-subterraneo/)
+- [Exploracion](https://arica.mecanicadesuelos.biz/exploracion/)
+- [Geotecnia Vial](https://arica.mecanicadesuelos.biz/geotecnia-vial/)
+- [Granulometria](https://arica.mecanicadesuelos.biz/granulometria/)
+- [Inyecciones](https://arica.mecanicadesuelos.biz/inyecciones/)
+- [Laboratorio In Situ](https://arica.mecanicadesuelos.biz/laboratorio-in-situ/)
+- [Laboratorio Lab](https://arica.mecanicadesuelos.biz/laboratorio-lab/)
+- [Licuefaccion](https://arica.mecanicadesuelos.biz/licuefaccion/)
+- [Limites Atterberg](https://arica.mecanicadesuelos.biz/limites-atterberg/)
+- [Losas Fundacion](https://arica.mecanicadesuelos.biz/losas-fundacion/)
+- [Masw](https://arica.mecanicadesuelos.biz/masw/)
+- [Mejoramiento](https://arica.mecanicadesuelos.biz/mejoramiento/)
+- [Microzonificacion Sismica](https://arica.mecanicadesuelos.biz/microzonificacion-sismica/)
+- [Monitoreo Excavaciones](https://arica.mecanicadesuelos.biz/monitoreo-excavaciones/)
+- [Muros Contencion](https://arica.mecanicadesuelos.biz/muros-contencion/)
+- [Pavimento Flexible](https://arica.mecanicadesuelos.biz/pavimento-flexible/)
+- [Pavimento Rigido](https://arica.mecanicadesuelos.biz/pavimento-rigido/)
+- [Permeabilidad In Situ](https://arica.mecanicadesuelos.biz/permeabilidad-in-situ/)
+- [Pilotes](https://arica.mecanicadesuelos.biz/pilotes/)
+- [Refraccion Sismica](https://arica.mecanicadesuelos.biz/refraccion-sismica/)
+- [Resistividad](https://arica.mecanicadesuelos.biz/resistividad/)
+- [Sismica](https://arica.mecanicadesuelos.biz/sismica/)
+- [Sondajes Spt](https://arica.mecanicadesuelos.biz/sondajes-spt/)
+- [Taludes](https://arica.mecanicadesuelos.biz/taludes/)
+- [Triaxial](https://arica.mecanicadesuelos.biz/triaxial/)
+- [Tuneles Suelo Blando](https://arica.mecanicadesuelos.biz/tuneles-suelo-blando/)
+- [Vibrocompactacion](https://arica.mecanicadesuelos.biz/vibrocompactacion/)
+- [Zapatas](https://arica.mecanicadesuelos.biz/zapatas/)
+
+## Contact
+- Website: https://arica.mecanicadesuelos.biz/
+
+## About
+This site provides geotechnical engineering services in Arica, Chile.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
