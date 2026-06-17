@@ -7,194 +7,242 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://arica.mecanicadesuelos.biz/microzonificacion-sismica</loc>
-    <lastmod>2026-05-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://arica.mecanicadesuelos.biz/pavimento-rigido</loc>
-    <lastmod>2026-04-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://arica.mecanicadesuelos.biz/limites-atterberg</loc>
-    <lastmod>2026-05-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://arica.mecanicadesuelos.biz/sondajes-spt</loc>
-    <lastmod>2026-03-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://arica.mecanicadesuelos.biz/muros-contencion</loc>
-    <lastmod>2026-04-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://arica.mecanicadesuelos.biz/zapatas</loc>
-    <lastmod>2026-03-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://arica.mecanicadesuelos.biz/pavimento-flexible</loc>
-    <lastmod>2026-04-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://arica.mecanicadesuelos.biz/inyecciones</loc>
-    <lastmod>2026-05-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://arica.mecanicadesuelos.biz/masw</loc>
-    <lastmod>2026-04-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://arica.mecanicadesuelos.biz/ensayo-cpt</loc>
-    <lastmod>2026-04-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://arica.mecanicadesuelos.biz/vibrocompactacion</loc>
-    <lastmod>2026-04-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://arica.mecanicadesuelos.biz/licuefaccion</loc>
-    <lastmod>2026-05-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://arica.mecanicadesuelos.biz/cbr-vial</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://arica.mecanicadesuelos.biz/ensayos-proctor</loc>
+    <loc>https://arica.mecanicadesuelos.biz/aislacion-sismica/</loc>
     <lastmod>2026-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://arica.mecanicadesuelos.biz/anclajes</loc>
+    <loc>https://arica.mecanicadesuelos.biz/anclajes/</loc>
     <lastmod>2026-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://arica.mecanicadesuelos.biz/densidad-cono-arena</loc>
-    <lastmod>2026-04-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://arica.mecanicadesuelos.biz/pilotes</loc>
-    <lastmod>2026-05-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://arica.mecanicadesuelos.biz/refraccion-sismica</loc>
-    <lastmod>2026-03-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://arica.mecanicadesuelos.biz/columnas-grava</loc>
-    <lastmod>2026-05-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://arica.mecanicadesuelos.biz/calicatas</loc>
+    <loc>https://arica.mecanicadesuelos.biz/calicatas/</loc>
     <lastmod>2026-04-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://arica.mecanicadesuelos.biz/resistividad</loc>
-    <lastmod>2026-04-14</lastmod>
+    <loc>https://arica.mecanicadesuelos.biz/cbr-vial/</loc>
+    <lastmod>2026-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://arica.mecanicadesuelos.biz/tuneles-suelo-blando</loc>
-    <lastmod>2026-04-10</lastmod>
+    <loc>https://arica.mecanicadesuelos.biz/cimentaciones/</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://arica.mecanicadesuelos.biz/estabilidad-taludes</loc>
-    <lastmod>2026-03-29</lastmod>
+    <loc>https://arica.mecanicadesuelos.biz/columnas-grava/</loc>
+    <lastmod>2026-05-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://arica.mecanicadesuelos.biz/contacto</loc>
-    <lastmod>2026-04-02</lastmod>
+    <loc>https://arica.mecanicadesuelos.biz/densidad-cono-arena/</loc>
+    <lastmod>2026-04-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://arica.mecanicadesuelos.biz/excavaciones-profundas</loc>
-    <lastmod>2026-05-02</lastmod>
+    <loc>https://arica.mecanicadesuelos.biz/ensayo-cpt/</loc>
+    <lastmod>2026-04-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://arica.mecanicadesuelos.biz/triaxial</loc>
-    <lastmod>2026-04-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://arica.mecanicadesuelos.biz/aislacion-sismica</loc>
+    <loc>https://arica.mecanicadesuelos.biz/ensayos-proctor/</loc>
     <lastmod>2026-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://arica.mecanicadesuelos.biz/monitoreo-excavaciones</loc>
-    <lastmod>2026-04-25</lastmod>
+    <loc>https://arica.mecanicadesuelos.biz/estabilidad-taludes/</loc>
+    <lastmod>2026-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://arica.mecanicadesuelos.biz/permeabilidad-in-situ</loc>
-    <lastmod>2026-03-22</lastmod>
+    <loc>https://arica.mecanicadesuelos.biz/excavaciones-profundas/</loc>
+    <lastmod>2026-05-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://arica.mecanicadesuelos.biz/granulometria</loc>
+    <loc>https://arica.mecanicadesuelos.biz/excavaciones-subterraneo/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://arica.mecanicadesuelos.biz/exploracion/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://arica.mecanicadesuelos.biz/geotecnia-vial/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://arica.mecanicadesuelos.biz/granulometria/</loc>
     <lastmod>2026-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://arica.mecanicadesuelos.biz/losas-fundacion</loc>
+    <loc>https://arica.mecanicadesuelos.biz/inyecciones/</loc>
+    <lastmod>2026-05-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://arica.mecanicadesuelos.biz/laboratorio-in-situ/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://arica.mecanicadesuelos.biz/laboratorio-lab/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://arica.mecanicadesuelos.biz/licuefaccion/</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://arica.mecanicadesuelos.biz/limites-atterberg/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://arica.mecanicadesuelos.biz/losas-fundacion/</loc>
     <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://arica.mecanicadesuelos.biz/privacidad</loc>
-    <lastmod>2026-05-16</lastmod>
+    <loc>https://arica.mecanicadesuelos.biz/masw/</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://arica.mecanicadesuelos.biz/mejoramiento/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://arica.mecanicadesuelos.biz/microzonificacion-sismica/</loc>
+    <lastmod>2026-05-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://arica.mecanicadesuelos.biz/monitoreo-excavaciones/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://arica.mecanicadesuelos.biz/muros-contencion/</loc>
+    <lastmod>2026-04-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://arica.mecanicadesuelos.biz/pavimento-flexible/</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://arica.mecanicadesuelos.biz/pavimento-rigido/</loc>
+    <lastmod>2026-04-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://arica.mecanicadesuelos.biz/permeabilidad-in-situ/</loc>
+    <lastmod>2026-03-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://arica.mecanicadesuelos.biz/pilotes/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://arica.mecanicadesuelos.biz/refraccion-sismica/</loc>
+    <lastmod>2026-03-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://arica.mecanicadesuelos.biz/resistividad/</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://arica.mecanicadesuelos.biz/sismica/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://arica.mecanicadesuelos.biz/sitemap/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://arica.mecanicadesuelos.biz/sondajes-spt/</loc>
+    <lastmod>2026-03-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://arica.mecanicadesuelos.biz/taludes/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://arica.mecanicadesuelos.biz/triaxial/</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://arica.mecanicadesuelos.biz/tuneles-suelo-blando/</loc>
+    <lastmod>2026-04-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://arica.mecanicadesuelos.biz/vibrocompactacion/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://arica.mecanicadesuelos.biz/zapatas/</loc>
+    <lastmod>2026-03-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
